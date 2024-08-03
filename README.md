@@ -1,5 +1,3 @@
-## Hi there 👋
-
 hi im ark
 
 interested in ai/ml, blockchain, systems, and quantum computing

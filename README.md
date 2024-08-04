@@ -2,11 +2,9 @@ hi im ark
 
 interested in ai/ml, blockchain, systems, and quantum computing
 
-looking for summer 2025 internships
+looking for fall 24, spring 25, and/or summer 25 internships
 
-reach out if you want to collab or connect
-
-dms open -> https://x.com/arkcorn
+easiest way to reach out is x, my dms are always open: https://x.com/arkcorn
 <!--
 **arkcorn/arkcorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

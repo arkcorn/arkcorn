@@ -4,4 +4,5 @@ aspiring software engineer
 
 looking summer 25 internships
 
-easiest way to reach out is x, my dms are always open: https://x.com/arkcorn
+easiest way to reach out is through email:
+arkady@disroot.org

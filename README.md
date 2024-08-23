@@ -1,8 +1,8 @@
 hi im ark
 
-interested in ai/ml, blockchain, systems, and quantum computing
+aspiring software engineer
 
-looking for fall 24, spring 25, and/or summer 25 internships
+looking summer 25 internships
 
 easiest way to reach out is x, my dms are always open: https://x.com/arkcorn
 <!--

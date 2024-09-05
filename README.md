@@ -1,8 +1,3 @@
-hi im ark
+hi im arkady
 
-aspiring software engineer
-
-looking summer 25 internships
-
-easiest way to reach out is through email:
-arkady@disroot.org
+currently looking for summer '25 or spring '25 swe, quant, and data science internships
